@@ -10,4 +10,8 @@ public class Welcomer{
 	public String sayNeedGold(){
 		return "Not enough gold";
 	}
+	public String sayBountyHunter() {
+		return "A bounty hunter is a private agent working for bail bonds.";
+        }
+
 }
