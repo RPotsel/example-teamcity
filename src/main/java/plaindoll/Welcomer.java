@@ -13,4 +13,7 @@ public class Welcomer{
 	public String sayHunter() {
 		return "Bounty hunting is a vestige of common law.";
         }
+	public String sayBountyHunter() {
+		return "A bounty hunter is a private agent working for bail bonds.";
+        }
 }
